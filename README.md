@@ -9,4 +9,6 @@ After that run home.html file on your favorite browser.
 
 Technology Used: HTML/HTML5, CSS/CSS3, W3.CSS, Pure.CSS, Bootstrap. 
 
-Duration: May, 2018 to Sep, 2018. URL: www.anstowin.com
+Duration: May, 2018 to Sep, 2018.
+
+URL: www.anstowin.com
